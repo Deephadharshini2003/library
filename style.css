@@ -1,0 +1,176 @@
+*{
+    background: linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%);
+    background-image:url('image3.jpg');
+    background-size: cover;
+}
+h1{
+    font-size: 1000%;
+    color:whitesmoke;
+    font-style: italic;
+}
+.button1{
+        
+        color: white;
+        position: absolute;
+        top:90%;
+        background-image: url('white.jpg');
+        border:none;
+        border-radius:10px;
+        padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    color: black;
+    margin-left:1380px;
+    font-style: oblique;
+    border: 2px solid sandybrown;
+   
+    }
+    .button2{
+    
+        position: absolute;
+        top:90%;
+        margin-left:150px;
+        background-image: url('white.jpg');
+        border:none;
+        border-radius:10px;
+        padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    color: black;
+    font-style: oblique;
+
+        
+    }
+    .button3{
+    
+        position: absolute;
+        top:90%;
+        margin-left:300px;
+        background-image: url('white.jpg');
+        border:none;
+        border-radius:10px;
+        padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    color: black;
+    font-style: oblique;
+    }
+    .button4{
+    
+        position: absolute;
+        top:90%;
+        margin-left:382;
+        background-image: url('white.jpg');
+        border:none;
+        border-radius:10px;
+        padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    color: black;
+    font-style: oblique;
+    }
+    .button5{
+    
+        position: absolute;
+        top:90%;
+        margin-left:490px;
+        background-image: url('white.jpg');
+        border:none;
+        border-radius:10px;
+        padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    color: black;
+    font-style: oblique;
+    }
+    .button6{
+    
+        position: absolute;
+        top:90%;
+        margin-left:650px;
+        background-image: url('white.jpg');
+        border:none;
+        border-radius:10px;
+        padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    color: black;
+    font-style: oblique;
+    }
+    .button7{
+    
+        position: absolute;
+        top:90%;
+        margin-left:800px; background-image: url('white.jpg');
+        border:none;
+        border-radius:10px;
+        padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    color: black;
+    font-style: oblique;
+    }
+    .button8{
+    
+        position: absolute;
+        top:90%;
+        margin-left:1000px;
+        background-image: url('white.jpg');
+        border:none;
+        border-radius:10px;
+        padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    color: black;
+    font-style: oblique;
+    }
+    .button9{
+    
+        position: absolute;
+        top:90%;
+        margin-left:1200px;
+        background-image: url('white.jpg');
+        border:none;
+        border-radius:10px;
+        padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    color:black;
+    font-style: oblique;
+    }
+    .button1:hover {
+        background-image: url('lilac.jpg');
+        transition: 1s;
+    }
+    .button2:hover {
+        background-image: url('lilac.jpg');
+        transition: 1s;
+    }
+    .button3:hover {
+        background-image: url('lilac.jpg');
+        transition: 1s;
+    }
+    .button4:hover {
+        background-image: url('lilac.jpg');
+        transition: 1s;
+    }
+    .button5:hover {
+        background-image: url('lilac.jpg');
+        transition: 1s;
+    }
+    .button6:hover {
+        background-image: url('lilac.jpg');
+        transition: 1s;
+    }
+    .button7:hover {
+        background-image: url('lilac.jpg');
+        transition: 1s;
+    }
+    .button8:hover {
+        background-image: url('lilac.jpg');
+        transition: 1s;
+    }
+    .button9:hover {
+        background-image: url('lilac.jpg');
+        transition: 1s;
+    }
